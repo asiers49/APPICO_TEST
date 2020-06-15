@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="appico_testModelStoreContainer" CdmEntityContainer="appico_testEntities">
+    <EntitySetMapping Name="contacts">
+      <EntityTypeMapping TypeName="appico_testModel.contact">
+        <MappingFragment StoreEntitySet="contact">
+          <ScalarProperty Name="guid" ColumnName="guid" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="created" ColumnName="created" />
+          <ScalarProperty Name="dealer" ColumnName="dealer" />
+          <ScalarProperty Name="model" ColumnName="model" />
+          <ScalarProperty Name="message" ColumnName="message" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="dealers">
+      <EntityTypeMapping TypeName="appico_testModel.dealer">
+        <MappingFragment StoreEntitySet="dealer">
+          <ScalarProperty Name="guid" ColumnName="guid" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="address" ColumnName="address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inventories">
+      <EntityTypeMapping TypeName="appico_testModel.inventory">
+        <MappingFragment StoreEntitySet="inventory">
+          <ScalarProperty Name="guid" ColumnName="guid" />
+          <ScalarProperty Name="dealer" ColumnName="dealer" />
+          <ScalarProperty Name="model" ColumnName="model" />
+          <ScalarProperty Name="vin" ColumnName="vin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="models">
+      <EntityTypeMapping TypeName="appico_testModel.model">
+        <MappingFragment StoreEntitySet="models">
+          <ScalarProperty Name="guid" ColumnName="guid" />
+          <ScalarProperty Name="make" ColumnName="make" />
+          <ScalarProperty Name="model1" ColumnName="model" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="year" ColumnName="year" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

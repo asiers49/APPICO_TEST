@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="appico_testModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="contact">
+    <Key>
+      <PropertyRef Name="guid" />
+    </Key>
+    <Property Name="guid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="email" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="created" Type="datetime" Nullable="false" />
+    <Property Name="dealer" Type="int" Nullable="false" />
+    <Property Name="model" Type="int" Nullable="false" />
+    <Property Name="message" Type="nchar" MaxLength="4000" />
+  </EntityType>
+  <EntityType Name="dealer">
+    <Key>
+      <PropertyRef Name="guid" />
+    </Key>
+    <Property Name="guid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="address" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="inventory">
+    <Key>
+      <PropertyRef Name="guid" />
+    </Key>
+    <Property Name="guid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="dealer" Type="int" Nullable="false" />
+    <Property Name="model" Type="int" Nullable="false" />
+    <Property Name="vin" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="models">
+    <Key>
+      <PropertyRef Name="guid" />
+    </Key>
+    <Property Name="guid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="make" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="model" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="type" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="year" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_contact_dealer">
+    <End Role="dealer" Type="Self.dealer" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="contact" Type="Self.contact" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="dealer">
+        <PropertyRef Name="guid" />
+      </Principal>
+      <Dependent Role="contact">
+        <PropertyRef Name="dealer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_contact_models">
+    <End Role="models" Type="Self.models" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="contact" Type="Self.contact" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="models">
+        <PropertyRef Name="guid" />
+      </Principal>
+      <Dependent Role="contact">
+        <PropertyRef Name="model" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_inventory_dealer">
+    <End Role="dealer" Type="Self.dealer" Multiplicity="1" />
+    <End Role="inventory" Type="Self.inventory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="dealer">
+        <PropertyRef Name="guid" />
+      </Principal>
+      <Dependent Role="inventory">
+        <PropertyRef Name="dealer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_inventory_models">
+    <End Role="models" Type="Self.models" Multiplicity="1" />
+    <End Role="inventory" Type="Self.inventory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="models">
+        <PropertyRef Name="guid" />
+      </Principal>
+      <Dependent Role="inventory">
+        <PropertyRef Name="model" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="appico_testModelStoreContainer">
+    <EntitySet Name="contact" EntityType="Self.contact" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="dealer" EntityType="Self.dealer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="inventory" EntityType="Self.inventory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="models" EntityType="Self.models" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_contact_dealer" Association="Self.FK_contact_dealer">
+      <End Role="dealer" EntitySet="dealer" />
+      <End Role="contact" EntitySet="contact" />
+    </AssociationSet>
+    <AssociationSet Name="FK_contact_models" Association="Self.FK_contact_models">
+      <End Role="models" EntitySet="models" />
+      <End Role="contact" EntitySet="contact" />
+    </AssociationSet>
+    <AssociationSet Name="FK_inventory_dealer" Association="Self.FK_inventory_dealer">
+      <End Role="dealer" EntitySet="dealer" />
+      <End Role="inventory" EntitySet="inventory" />
+    </AssociationSet>
+    <AssociationSet Name="FK_inventory_models" Association="Self.FK_inventory_models">
+      <End Role="models" EntitySet="models" />
+      <End Role="inventory" EntitySet="inventory" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

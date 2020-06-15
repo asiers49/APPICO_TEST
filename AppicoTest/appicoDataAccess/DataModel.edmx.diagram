@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="eb65136e9e654afcb29b2cbd4e701b15" Name="Diagram1">
+        <EntityTypeShape EntityType="appico_testModel.contact" Width="1.5" PointX="3" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="appico_testModel.dealer" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="appico_testModel.inventory" Width="1.5" PointX="6" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="appico_testModel.model" Width="1.5" PointX="0.75" PointY="3.5" IsExpanded="true" />
+        <AssociationConnector Association="appico_testModel.FK_contact_dealer" ManuallyRouted="false" />
+        <AssociationConnector Association="appico_testModel.FK_contact_models" ManuallyRouted="false" />
+        <AssociationConnector Association="appico_testModel.FK_inventory_dealer" ManuallyRouted="false" />
+        <AssociationConnector Association="appico_testModel.FK_inventory_models" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

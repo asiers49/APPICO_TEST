@@ -1,0 +1,328 @@
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\AppicoTest.dll.config
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\AppicoTest.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\AppicoTest.pdb
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\csc.exe
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\csc.exe.config
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\csc.rsp
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\csi.exe
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\csi.exe.config
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\csi.rsp
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.AppContext.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Console.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Net.Http.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Net.Sockets.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\vbc.exe
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\vbc.exe.config
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\vbc.rsp
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\Antlr3.Runtime.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\Newtonsoft.Json.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Net.Http.Formatting.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.Helpers.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.Http.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.Http.WebHost.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.Mvc.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.Optimization.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.Razor.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.WebPages.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\WebGrease.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.Helpers.xml
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.Mvc.xml
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.Optimization.xml
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.Razor.xml
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.WebPages.xml
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\Newtonsoft.Json.xml
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\Antlr3.Runtime.pdb
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Net.Http.Formatting.xml
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.Http.xml
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\System.Web.Http.WebHost.xml
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\obj\Debug\AppicoTest.csprojAssemblyReference.cache
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\obj\Debug\AppicoTest.csproj.CoreCompileInputs.cache
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\obj\Debug\AppicoTest.csproj.CopyComplete
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\obj\Debug\AppicoTest.dll
+C:\Users\arvid.gerstmann\source\repos\AppicoTest\AppicoTest\obj\Debug\AppicoTest.pdb
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\AppicoTest.dll.config
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\AppicoTest.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\AppicoTest.pdb
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\csc.exe
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\csc.exe.config
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\csc.rsp
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\csi.exe
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\csi.exe.config
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\csi.rsp
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.AppContext.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Console.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Net.Http.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Net.Sockets.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\vbc.exe
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\vbc.exe.config
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\vbc.rsp
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\Antlr3.Runtime.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\Newtonsoft.Json.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Net.Http.Formatting.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.Helpers.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.Http.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.Http.WebHost.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.Mvc.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.Optimization.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.Razor.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.WebPages.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\WebGrease.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.Helpers.xml
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.Mvc.xml
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.Optimization.xml
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.Razor.xml
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.WebPages.xml
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\Newtonsoft.Json.xml
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\Antlr3.Runtime.pdb
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Net.Http.Formatting.xml
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.Http.xml
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\System.Web.Http.WebHost.xml
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\obj\Debug\AppicoTest.csprojAssemblyReference.cache
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\obj\Debug\AppicoTest.csproj.CoreCompileInputs.cache
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\obj\Debug\AppicoTest.csproj.CopyComplete
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\obj\Debug\AppicoTest.dll
+C:\Users\arvid.gerstmann\Desktop\AppicoTest\AppicoTest\AppicoTest\obj\Debug\AppicoTest.pdb
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\AppicoTest.dll.config
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\AppicoTest.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\AppicoTest.pdb
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\csc.exe
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\csc.exe.config
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\csc.rsp
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\csi.exe
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\csi.exe.config
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\csi.rsp
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.AppContext.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Console.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Net.Http.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\vbc.exe
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\vbc.exe.config
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\vbc.rsp
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Antlr3.Runtime.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Newtonsoft.Json.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Net.Http.Formatting.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.Helpers.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.Http.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.Http.WebHost.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.Mvc.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.Optimization.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.Razor.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.WebPages.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\WebGrease.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.Helpers.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.Mvc.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.Optimization.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.Razor.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.WebPages.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Newtonsoft.Json.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Antlr3.Runtime.pdb
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Net.Http.Formatting.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.Http.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.Http.WebHost.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\obj\Debug\AppicoTest.csprojAssemblyReference.cache
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\obj\Debug\AppicoTest.csproj.CoreCompileInputs.cache
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\obj\Debug\AppicoTest.csproj.CopyComplete
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\obj\Debug\AppicoTest.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\obj\Debug\AppicoTest.pdb
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\EntityFramework.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\EntityFramework.SqlServer.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\EntityFramework.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\EntityFramework.SqlServer.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\appicoDataAccess.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Options.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Identity.Client.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Buffers.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Collections.Immutable.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.ComponentModel.Annotations.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Memory.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Numerics.Vectors.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\appicoDataAccess.pdb
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\appicoDataAccess.dll.config
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Options.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\Microsoft.Identity.Client.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Buffers.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Collections.Immutable.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Memory.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Numerics.Vectors.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.Cors.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.Http.Cors.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\AppicoTest\bin\System.Web.Http.Cors.xml

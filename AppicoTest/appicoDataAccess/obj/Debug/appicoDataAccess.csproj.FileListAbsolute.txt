@@ -1,0 +1,12 @@
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\appicoDataAccess\bin\Debug\appicoDataAccess.dll.config
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\appicoDataAccess\bin\Debug\appicoDataAccess.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\appicoDataAccess\bin\Debug\appicoDataAccess.pdb
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\appicoDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\appicoDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\appicoDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\appicoDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\appicoDataAccess\obj\Debug\appicoDataAccess.csprojAssemblyReference.cache
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\appicoDataAccess\obj\Debug\appicoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\appicoDataAccess\obj\Debug\appicoDataAccess.csproj.CopyComplete
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\appicoDataAccess\obj\Debug\appicoDataAccess.dll
+C:\Users\Asier Salazar\Desktop\AppicoFullstackTest\AppicoFullstackTest\AppicoTest\appicoDataAccess\obj\Debug\appicoDataAccess.pdb

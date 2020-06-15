@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="appico_testModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="contact">
+    <Key>
+      <PropertyRef Name="guid" />
+    </Key>
+    <Property Name="guid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="created" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="dealer" Type="Int32" Nullable="false" />
+    <Property Name="model" Type="Int32" Nullable="false" />
+    <Property Name="message" Type="String" MaxLength="4000" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="dealer1" Relationship="Self.FK_contact_dealer" FromRole="contact" ToRole="dealer" />
+    <NavigationProperty Name="model1" Relationship="Self.FK_contact_models" FromRole="contact" ToRole="models" />
+  </EntityType>
+  <EntityType Name="dealer">
+    <Key>
+      <PropertyRef Name="guid" />
+    </Key>
+    <Property Name="guid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="address" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="contacts" Relationship="Self.FK_contact_dealer" FromRole="dealer" ToRole="contact" />
+    <NavigationProperty Name="inventories" Relationship="Self.FK_inventory_dealer" FromRole="dealer" ToRole="inventory" />
+  </EntityType>
+  <EntityType Name="inventory">
+    <Key>
+      <PropertyRef Name="guid" />
+    </Key>
+    <Property Name="guid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="dealer" Type="Int32" Nullable="false" />
+    <Property Name="model" Type="Int32" Nullable="false" />
+    <Property Name="vin" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="dealer1" Relationship="Self.FK_inventory_dealer" FromRole="inventory" ToRole="dealer" />
+    <NavigationProperty Name="model1" Relationship="Self.FK_inventory_models" FromRole="inventory" ToRole="models" />
+  </EntityType>
+  <EntityType Name="model">
+    <Key>
+      <PropertyRef Name="guid" />
+    </Key>
+    <Property Name="guid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="make" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="model1" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="type" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="year" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="contacts" Relationship="Self.FK_contact_models" FromRole="models" ToRole="contact" />
+    <NavigationProperty Name="inventories" Relationship="Self.FK_inventory_models" FromRole="models" ToRole="inventory" />
+  </EntityType>
+  <Association Name="FK_contact_dealer">
+    <End Role="dealer" Type="Self.dealer" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="contact" Type="Self.contact" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="dealer">
+        <PropertyRef Name="guid" />
+      </Principal>
+      <Dependent Role="contact">
+        <PropertyRef Name="dealer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_contact_models">
+    <End Role="models" Type="Self.model" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="contact" Type="Self.contact" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="models">
+        <PropertyRef Name="guid" />
+      </Principal>
+      <Dependent Role="contact">
+        <PropertyRef Name="model" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_inventory_dealer">
+    <End Role="dealer" Type="Self.dealer" Multiplicity="1" />
+    <End Role="inventory" Type="Self.inventory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="dealer">
+        <PropertyRef Name="guid" />
+      </Principal>
+      <Dependent Role="inventory">
+        <PropertyRef Name="dealer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_inventory_models">
+    <End Role="models" Type="Self.model" Multiplicity="1" />
+    <End Role="inventory" Type="Self.inventory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="models">
+        <PropertyRef Name="guid" />
+      </Principal>
+      <Dependent Role="inventory">
+        <PropertyRef Name="model" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="appico_testEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="contacts" EntityType="Self.contact" />
+    <EntitySet Name="dealers" EntityType="Self.dealer" />
+    <EntitySet Name="inventories" EntityType="Self.inventory" />
+    <EntitySet Name="models" EntityType="Self.model" />
+    <AssociationSet Name="FK_contact_dealer" Association="Self.FK_contact_dealer">
+      <End Role="dealer" EntitySet="dealers" />
+      <End Role="contact" EntitySet="contacts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_contact_models" Association="Self.FK_contact_models">
+      <End Role="models" EntitySet="models" />
+      <End Role="contact" EntitySet="contacts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_inventory_dealer" Association="Self.FK_inventory_dealer">
+      <End Role="dealer" EntitySet="dealers" />
+      <End Role="inventory" EntitySet="inventories" />
+    </AssociationSet>
+    <AssociationSet Name="FK_inventory_models" Association="Self.FK_inventory_models">
+      <End Role="models" EntitySet="models" />
+      <End Role="inventory" EntitySet="inventories" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
